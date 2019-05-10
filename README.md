@@ -11,7 +11,7 @@ Usage
 From Docker registry:
 
 ```
-docker pull rjrivero/nimble
+docker pull sedatcanli/nimble
 ```
 
 Or build yourself:
