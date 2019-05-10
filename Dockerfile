@@ -1,4 +1,4 @@
-FROM phusion/baseimage
+
 
 ## Install nimble and move all config files to /etc/nimble.conf
 ##
