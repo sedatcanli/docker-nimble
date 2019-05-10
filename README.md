@@ -17,8 +17,8 @@ docker pull rjrivero/nimble
 Or build yourself:
 
 ```
-git clone https://github.com/rjrivero/docker-nimble.git
-docker build --rm -t rjrivero/nimble docker-nimble
+git clone https://github.com/sedatcanli/docker-nimble.git
+docker build --rm -t sedatcanli/nimble docker-nimble
 ```
 
 Running the image:
